@@ -2,3 +2,5 @@ yellow
 red
 green
 blue
+pink
+white
